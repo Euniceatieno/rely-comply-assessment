@@ -1,4 +1,4 @@
-## MetaProgamming exercise solution
+## Metaprogramming exercise solution
 
 https://github.com/Euniceatieno/rely-comply-assessment/blob/master/meta-programming-solution/tests.py
 
